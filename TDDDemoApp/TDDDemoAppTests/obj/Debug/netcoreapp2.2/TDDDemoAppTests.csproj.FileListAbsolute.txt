@@ -1,0 +1,17 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoAppTests.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoAppTests.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoAppTests.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoAppTests.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoAppTests.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoApp.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/bin/Debug/netcoreapp2.2/TDDDemoApp.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoAppTests/obj/Debug/netcoreapp2.2/TDDDemoAppTests.csproj.CopyComplete

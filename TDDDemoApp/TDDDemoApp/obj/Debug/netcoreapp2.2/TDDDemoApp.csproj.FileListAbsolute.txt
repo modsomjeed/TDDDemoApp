@@ -1,0 +1,11 @@
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/bin/Debug/netcoreapp2.2/TDDDemoApp.deps.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/bin/Debug/netcoreapp2.2/TDDDemoApp.runtimeconfig.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/bin/Debug/netcoreapp2.2/TDDDemoApp.runtimeconfig.dev.json
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/bin/Debug/netcoreapp2.2/TDDDemoApp.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/bin/Debug/netcoreapp2.2/TDDDemoApp.pdb
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.csprojAssemblyReference.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.csproj.CoreCompileInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.AssemblyInfoInputs.cache
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.AssemblyInfo.cs
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.dll
+/Users/odds-kwang/Documents/Kwang/Project/Code Challenge/Automated Test/TDDDemoApp/obj/Debug/netcoreapp2.2/TDDDemoApp.pdb
